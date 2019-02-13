@@ -6,7 +6,7 @@
 ### Author: Jared
 
 ### Links and Resources
-* [CodeSandboc](https://codesandbox.io/s/lookzlx69)
+* [CodeSandbox](https://codesandbox.io/s/lookzlx69)
 
   
 #### Tests
